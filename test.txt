@@ -1,0 +1,6 @@
+Name: go_user
+Email: go_user@golang.org
+
+Name: go_user1
+Email: go_user1@golang.org
+
